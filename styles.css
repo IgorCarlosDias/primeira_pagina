@@ -3,16 +3,13 @@ body {
     overflow: auto;
 }
 
-.header-link {
-
-}
-
 .link-container {
   position: relative;
   top: -70px;
   bottom: 100px;
   left: 1500px;
   margin-right: 80px;
+  width: 300px;
 }
 
 a {
